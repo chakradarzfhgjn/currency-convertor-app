@@ -1,17 +1,24 @@
-# flutterggs
+# 💱 Currency Converter App
 
-A new Flutter project.
+A sleek, responsive, and cross-platform Flutter application that converts currencies in real-time. Built with support for both Material Design (Android/Web) and Cupertino (iOS) design systems.
 
-## Getting Started
+## ✨ Features
+* **Real-time Conversion**: Quick calculations with dynamic input updating.
+* **Dual Design Systems**: Custom UI implementations for both Android (Material) and iOS (Cupertino).
+* **Responsive Layout**: Adapts cleanly across mobile and desktop browser windows.
+* **Input Validation**: Clean error handling for numeric and decimal formatting.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework**: [Flutter](https://flutter.dev/)
+* **Language**: [Dart](https://dart.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Prerequisites
+* Flutter SDK (Latest Stable Version)
+* Android Studio / VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/chakradarzfhgjn/currency-convertor-app.git](https://github.com/chakradarzfhgjn/currency-convertor-app.git)
